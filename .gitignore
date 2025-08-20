@@ -1,0 +1,21 @@
+# Ignore virtual envs
+.venv/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore datasets & models
+brand/
+model/
+*.h5
+*.pkl
+*.pt
+*.zip
+*.jpg
+*.png
+
+# Ignore logs
+*.log
